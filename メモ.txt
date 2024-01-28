@@ -1,0 +1,7 @@
+うまくいかないとき、以下でインストール
+conda でうまくはいらないとき、gitで公開されているものからとってきてくれる。
+pipで試すと依存関係問題が出る可能性があるので、pip試す前に実行
+
+conda install -c conda-forge streamlit -y
+
+requirements.txt　←　外部ライブラリを記載　デプロイ時把握のため

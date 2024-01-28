@@ -1,0 +1,13 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
+{
+    "terminal.integreated.shellArgs.windows":[
+        "-ExecutionPolicy",
+        "ByPass",
+        "-NoExit",
+        "-Command",
+        "& 'C:\Users\kirik\anaconda3\shell\condabin\conda-hook.ps1' ; conda activate 'C:\Users\kirik\anaconda3' "
+    ]
+}
